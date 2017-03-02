@@ -1,5 +1,5 @@
 # Static Starter
-Sharing what I think is a good starting point for basic sites. I really enjoy a fancy stack, but sometimes a static site with Sass is all that's needed in the end.
+Sharing what I think is a good starting point for static sites. I really enjoy a fancy stack, but sometimes a simple starting point with Sass is all that's needed.
 
 ## Installation
 - Clone `git clone https://github.com/bgian/static-starter.git`
