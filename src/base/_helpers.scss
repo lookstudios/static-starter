@@ -1,0 +1,11 @@
+// Grid
+.wrap {
+  margin: 0 auto;
+  padding: 0 auto;
+  max-width: $wrap;
+  width: 100%;
+}
+
+// Colors
+.t-black { color: $text-black }
+.bg-white { background-color: $bg-white }
