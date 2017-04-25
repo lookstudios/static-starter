@@ -1,4 +1,4 @@
-# Static Starter 🏃
+# Static Starter
 This is a simple frontend repo for small static sites. For compiling we're using Laravel.Mix which has a lot of handy helpers over the top of webpack. It'll auto compress images throughout your project as well as compile your standard JS and Sass assets to the latest ES6 standard.
 
 ## Installation
