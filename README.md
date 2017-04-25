@@ -2,7 +2,7 @@
 This is a simple frontend repo for small static sites. For compiling we're using Laravel.Mix which has a lot of handy helpers over the top of webpack. It'll auto compress images throughout your project as well as compile your standard JS and Sass assets to the latest ES6 standard.
 
 ## Installation
-- Clone `git clone https://github.com/bgian/static-starter.git`
+- Clone `git clone https://github.com/lookstudios/static-starter.git`
 - [Download latest version](https://github.com/lookstudios/static-starter/archive/master.zip)
 
 ## Installing Assets
