@@ -6,6 +6,15 @@
   width: 100%;
 }
 
+//Flex
+.level {
+	display: flex;
+
+	.flex {
+		flex: 1;
+	}
+}
+
 // Colors
 .t-black { color: $text-black }
 .bg-white { background-color: $bg-white }

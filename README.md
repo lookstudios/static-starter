@@ -1,17 +1,23 @@
 # Static Starter
-Sharing what I think is a good starting point for static sites. I really enjoy a fancy stack, but sometimes a simple starting point with Sass is all that's needed.
+This is a simple frontend repo for small static sites. For compiling we're using Laravel.Mix which has a lot of handy helpers over the top of webpack. It'll auto compile images throughout your project as well as compile your standard JS and Sass assets to the latest ES6 standard.
 
 ## Installation
 - Clone `git clone https://github.com/bgian/static-starter.git`
-- [Download latest version](https://github.com/bgian/static-starter/archive/master.zip)
+- [Download latest version](https://github.com/lookstudios/static-starter/archive/master.zip)
 
-## Run
-- `npm install`
-- `gulp`
+## Installing Assets
+- `cd static-starter`
+- `npm install` or `yarn`
+
+## Compiling assets
+- `npm run dev` - Compiles development mode
+- `npm run production` - Compiles assets down for production usage
+- `npm run watch` - Runs a watcher and auto compiles when assets are updated
 
 ### Support
--   [hi@bobby.so](mailto:hi@bobby.so)
--   [@_bgian](http://twitter.com/_bgian)
+-   [bobby@lookstudios.co](mailto:bobby@lookstudios.co)
+-   [joe@lookstudios.co](mailto:joe@lookstudios.co)
+-   [@lookstudiosco](http://twitter.com/lookstudiosco)
 
 ### License
 MIT
