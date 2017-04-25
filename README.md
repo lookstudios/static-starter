@@ -5,18 +5,18 @@ A static starter for small sites. We're compiling with Laravel.Mix which has a l
 - Clone `git clone https://github.com/lookstudios/static-starter.git`
 - [Download latest version](https://github.com/lookstudios/static-starter/archive/master.zip)
 
-## Installing Assets
+### Installing Assets
 - `cd static-starter`
 - `npm install` or `yarn`
 
-## Compiling assets
+### Compiling assets
 - `npm run dev` - Compiles development mode
 - `npm run production` - Compiles assets down for production usage
 - `npm run watch` - Runs a watcher and auto compiles when assets are updated
 
 ## Features
 - Auto compress images
-- Auto compile JS & Sass to latest ES6 standard
+- Auto compile JS & Sass
 - Auto prefixes
 - Supports hot reloading
 - Supports browser sync
@@ -24,7 +24,6 @@ A static starter for small sites. We're compiling with Laravel.Mix which has a l
 - Vue files support
 - Compresses images
 - Multiple enviroments for different compiling methods
-
 
 ## Support
 - [bobby@lookstudios.co](mailto:bobby@lookstudios.co)
